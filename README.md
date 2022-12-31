@@ -5,3 +5,8 @@
 [![](https://img.shields.io/badge/Frontend-js-yellow)](https://docs.near.org/develop/integrate/frontend)
 [![](https://img.shields.io/github/workflow/status/near-examples/hello-near-js/Tests/master?color=green&label=Tests)](https://github.com/near-examples/hello-near-js/actions/workflows/tests.yml)
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ba62e9d8ac25890fa91eb4f1aa2f9ad97ff99861
