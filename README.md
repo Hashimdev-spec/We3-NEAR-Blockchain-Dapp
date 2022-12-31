@@ -1,4 +1,4 @@
-# Hello Near 👋 
+# NEAR Blockchain Dapp with a Simple Smart Contract 👋 
 [![](https://img.shields.io/badge/⋈%20Examples-basics-green)](https://docs.near.org/tutorials/welcome)
 [![](https://img.shields.io/badge/Gitpod-ready-orange)](https://gitpod.io/#/https://github.com/near-examples/hello-near-js)
 [![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
